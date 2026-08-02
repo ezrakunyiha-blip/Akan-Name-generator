@@ -12,6 +12,7 @@ I was able to do this project by myself .( Ezra kimathi)
 ## Technologies used
 - html
 - css
+- javascript
 
 
 
