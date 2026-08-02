@@ -13,6 +13,7 @@ I was able to do this project by myself .( Ezra kimathi)
 - html
 - css
 - javascript
+  ## contact information
 
 
 
