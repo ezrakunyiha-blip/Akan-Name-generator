@@ -7,7 +7,7 @@ I was able to do this project by myself .( Ezra kimathi)
 ## Setup instructions
 -Clone my project at my github account
 -through my github repositories
--open my project folder
+-open my project folder( Akan name generator)
 
 
 
