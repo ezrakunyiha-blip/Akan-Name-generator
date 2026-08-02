@@ -17,6 +17,7 @@ I was able to do this project by myself .( Ezra kimathi)
 -email: ezrakunyiha@gmail.com
 -phone:0729209506
 ## License & copyright information
+MIT LICENSE - You must include the original copyright notice and the MIT text in all copies of the software.
 
 
 
