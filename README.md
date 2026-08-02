@@ -18,6 +18,8 @@ I was able to do this project by myself .( Ezra kimathi)
 -phone:0729209506
 ## License & copyright information
 MIT LICENSE - You must include the original copyright notice and the MIT text in all copies of the software.
+## live demo
+http://127.0.0.1:5501/
 
 
 
