@@ -14,6 +14,7 @@ I was able to do this project by myself .( Ezra kimathi)
 - css
 - javascript
   ## contact information
+email: ezrakunyiha@gmail.com
 
 
 
