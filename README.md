@@ -3,6 +3,6 @@
 this is a web application that generates akan names to persons of ghanian heritage 
 according to their birthdate
 ## Author's information
-Ezra kimathi
+I was able to do this project by myself .( Ezra kimathi)
 
 
