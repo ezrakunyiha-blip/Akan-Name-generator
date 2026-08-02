@@ -1,0 +1,40 @@
+body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoz0efflLqJplUWgIXuHeKu0iee0Q1WnMS29hlUhl0NbiMXG94zXLIR1VE&s=1);
+
+
+
+
+}
+
+.Description{
+    text-align: center;
+    font-size:larger;
+    color:black;
+}
+.form {
+text-align: center;
+font-size: large;
+}
+.textsize {
+width: 300px;
+height: 40px;
+}
+
+.container {
+    width: 400px;
+    height: 300px;
+    background:rgba(255, 255, 255, 0.2) ;
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    padding: 20px;
+    color: rgb(215, 17, 17);
+    margin: 50px auto;
+    
+
+
+
+
+}
+
+
