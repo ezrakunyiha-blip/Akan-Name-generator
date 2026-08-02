@@ -15,6 +15,7 @@ I was able to do this project by myself .( Ezra kimathi)
 - javascript
   ## contact information
 email: ezrakunyiha@gmail.com
+phone:0729209506
 
 
 
