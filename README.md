@@ -1,4 +1,4 @@
-#Akan-Name-generator
+# Akan-Name-generator
 ## Project description
 
 
