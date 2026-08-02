@@ -11,6 +11,8 @@ I was able to do this project by myself .( Ezra kimathi)
 -my folder opens to the following files: INDEX.HTML, STYLES.CSS,SCRIPT.JS.
 ## Technologies used
 - html
+- css
+
 
 
 
