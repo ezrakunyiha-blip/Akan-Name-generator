@@ -14,8 +14,8 @@ I was able to do this project by myself .( Ezra kimathi)
 - css
 - javascript
   ## contact information
-email: ezrakunyiha@gmail.com
-phone:0729209506
+-email: ezrakunyiha@gmail.com
+-phone:0729209506
 
 
 
