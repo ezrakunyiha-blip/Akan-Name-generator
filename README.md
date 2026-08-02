@@ -8,7 +8,7 @@ I was able to do this project by myself .( Ezra kimathi)
 -Clone my project at my github account
 -through my github repositories
 -open my project folder( Akan name generator)
--my folder opens to the following files: 
+-my folder opens to the following files: Index.html,
 
 
 
