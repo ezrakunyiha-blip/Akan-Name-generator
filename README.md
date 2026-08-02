@@ -4,5 +4,7 @@ this is a web application that generates akan names to persons of ghanian herita
 according to their birthdate
 ## Author's information
 I was able to do this project by myself .( Ezra kimathi)
+## Setup instructions
+
 
 
